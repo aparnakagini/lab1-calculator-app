@@ -1,1 +1,10 @@
-# lab1-calculator-app
+# Lab1CalculatorApp
+
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
+
+## Development server
+
+To start a local development server, run:
+
+```bash
+ng serve
